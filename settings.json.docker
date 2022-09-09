@@ -635,4 +635,8 @@
 
   /* Disable Admin UI tests */
   "enableAdminUITests": false
+  
+  "ep_draw":{
+    "host": "whiteboard"
+  }
 }
