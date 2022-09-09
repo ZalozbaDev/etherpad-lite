@@ -634,9 +634,10 @@
   "customLocaleStrings": {},
 
   /* Disable Admin UI tests */
-  "enableAdminUITests": false
+  "enableAdminUITests": false,
   
-  "ep_draw":{
-    "host": "whiteboard"
-  }
+  "ep_draw": {
+    "host": "${WHITEBOARD_HOST}",
+    "position": "${WHITEBOARD_POSITION}"
+  },
 }
